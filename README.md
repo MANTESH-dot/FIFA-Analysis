@@ -63,22 +63,8 @@ Built using:
 
 - **Power BI** – Data modeling, visualization, DAX
 - **Excel / Python** – Data cleaning & preparation
-- **SQL** – Schema setup for relational logic
 - **GitHub** – Version control and project documentation
 
----
-
-## 📸 Dashboard Preview
-
-> 📷 Include screenshots here (Page 1 & Page 2)  
-> Example:
-> ![Dashboard Page 1](Screenshot_2025-06-23_195922.png)  
-> ![Dashboard Page 2](Screenshot_2025-06-23_195950.png)
-
----
-
-## 🔗 View Full Dashboard (Optional)
-[📎 Click here to view the full PDF/Power BI dashboard](https://your-google-drive-or-github-link.com)
 
 ---
 
