@@ -87,8 +87,8 @@ Built using:
 I’m actively looking for opportunities in **data analytics**, **business intelligence**, and **sports data**.  
 If you’re a recruiter or data professional, I’d love to connect and get feedback on this project!
 
-> ✉️ [LinkedIn Profile](https://www.linkedin.com/in/your-link/)  
-> 💼 [Portfolio](https://yourportfolio.com)
+> ✉️ [LinkedIn Profile]([https://www.linkedin.com/in/manteshredekar/])
+
 
 ---
 
