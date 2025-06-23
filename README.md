@@ -72,8 +72,8 @@ Built using:
 
 > 📷 Include screenshots here (Page 1 & Page 2)  
 > Example:
-> ![Dashboard Page 1](fifa_dashboard_page1.png)  
-> ![Dashboard Page 2](fifa_dashboard_page2.png)
+> ![Dashboard Page 1](Screenshot_2025-06-23_195922.png)  
+> ![Dashboard Page 2](Screenshot_2025-06-23_195950.png)
 
 ---
 
